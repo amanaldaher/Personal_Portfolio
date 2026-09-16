@@ -14,7 +14,7 @@ This project serves as a showcase of my technical skills, university programming
 ## 🚀 Live Demo
 
 Check out the live website here:  
-👉 **[View Portfolio](https://amanaldaher.github.io/Personal_Portfolio1/)**
+👉 **[View Portfolio](https://amanaldaher.github.io/Personal_Portfolio/)**
 
 ---
 
